@@ -1,5 +1,5 @@
 [package]
-name = "pkr_rename"
+name = "pkr_seek"
 version = "0.1.0"
 authors = ["User"]
 edition = "2018"
